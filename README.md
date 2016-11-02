@@ -1,6 +1,7 @@
 # time trackr
 ## Authors##
 * Nada Al-Alusi
+
 ## Purpose ## 
 * Time Trackr is a time management app that allows users to track their time and see the percentage breakdown of how they spend their time.
 ## Features ##
