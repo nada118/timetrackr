@@ -18,10 +18,16 @@
 
 ## Implementation
 ## Model
-Bullet Points: [List the files in your Model, e.g. Item.Swift]
+* Category.swift
+* TimeBreakdown.swift
+* Timer.swift
 
 ## View
-Bullet Points: [List your different Views, e.g. OutfitListTableView]
+* CategoriesTableView 
+* TimerView
+* TodaysBreakdownView
 
 ## Controller
-Bullet Points: [List the files in your Controller, e.g. OutfitListTableViewController]
+* CategoriesTableViewController
+* TimerViewController
+* TodaysBreakdownViewController
