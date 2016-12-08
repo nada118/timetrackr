@@ -3,31 +3,28 @@
 * Nada Al-Alusi
 
 ## Purpose
-* Time Trackr is a time management app that allows users to track their time and see the percentage breakdown of how they spend their time.
+* Time Trackr is a time management app that allows users to track their time
 
 ## Features
 * Add different tracking categories
 * Track how long you spend doing each category
-* View a pie chart with the breakdown of how you have spent your time
 * Add goals of how much time you want to spend doing each category
+* Edit categories by tapping them
+* Can delete categories
 
 ## Control Flow
-* Users are initially presented with the pie chart of the breakdown of their day
+* Users are initially presented with the list of categories
 * Users can view and edit the different categories and goals
-* Users can start the timer in a category and can watch the timer run
+* Users can start the timer in a category by clicking on the category to edit it and selecting the button
 
 ## Implementation
 ## Model
 * Category.swift
-* TimeBreakdown.swift
-* Timer.swift
 
 ## View
 * CategoriesTableView 
-* TimerView
-* TodaysBreakdownView
+* CategoryTableViewCell
 
 ## Controller
 * CategoriesTableViewController
-* TimerViewController
-* TodaysBreakdownViewController
+* CategoryViewController
