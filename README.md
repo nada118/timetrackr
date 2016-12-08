@@ -10,7 +10,7 @@
 * Track how long you spend doing each category
 * Add goals of how much time you want to spend doing each category
 * Edit categories by tapping them
-* Can delete categories
+* Delete categories by selecting edit
 
 ## Control Flow
 * Users are initially presented with the list of categories
